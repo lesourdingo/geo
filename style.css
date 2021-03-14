@@ -7,7 +7,7 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: antiquewhite;
-  background: rgb(41, 25, 25);
+  background: #202020;
 }
 
 h1 {
@@ -18,19 +18,27 @@ h1 {
 
 .container {
   display: flex;
-  padding: 2em;
+  padding: 1em;
   margin: auto;
 }
 
 #countries {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
 #Card {
   display: flex;
   flex-direction: column;
+  align-items: center;
   box-shadow: 0px 0px 10px 0px rgba(131, 128, 128, 0.51);
   padding: 1em;
+  margin: 1em;
   width: 150px;
+}
+
+#flag {
+  width: 100%;
+  margin-bottom: 1em;
 }

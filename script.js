@@ -12,7 +12,7 @@ fetch('./country.json')
         <div id="name">${country.nameFR}</div>
         <div id="capital">${country.capitalFR}</div>
     </div>
-    `);
+    `).join('');
 });
 
 
