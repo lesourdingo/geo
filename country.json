@@ -1,0 +1,1382 @@
+[
+    {
+      "name": "Afghanistan",
+      "nameFR": "Afghanistan",
+      "capital": "Kabul",
+      "capitalFR": "Kaboul",
+      "flag": "flags/afghanistan_flag-svg.svg"
+    },
+    {
+      "name": "Albania",
+      "nameFR": "Albanie",
+      "capital": "Tirana",
+      "capitalFR": "Tirana",
+      "flag": "flags/albania_flag-svg.svg"
+    },
+    {
+      "name": "Algeria",
+      "nameFR": "Alg�rie",
+      "capital": "Algiers",
+      "capitalFR": "Alger",
+      "flag": "flags/algeria_flag-svg.svg"
+    },
+    {
+      "name": "Andorra",
+      "nameFR": "Andorre",
+      "capital": "Andorra la Vella",
+      "capitalFR": "Andorre la Vieille",
+      "flag": "flags/andorra_flag-svg.svg"
+    },
+    {
+      "name": "Angola",
+      "nameFR": "Angola",
+      "capital": "Luanda",
+      "capitalFR": "Luanda",
+      "flag": "flags/angola_flag-svg.svg"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "nameFR": "Antigua et Barbuda",
+      "capital": "Saint John's",
+      "capitalFR": "Saint John's",
+      "flag": "flags/antigua-and-barbuda_flag-svg.svg"
+    },
+    {
+      "name": "Argentina",
+      "nameFR": "Argentine",
+      "capital": "Buenos Aires",
+      "capitalFR": "Buenos Aires",
+      "flag": "flags/argentina_flag-svg.svg"
+    },
+    {
+      "name": "Armenia",
+      "nameFR": "Arm�nie",
+      "capital": "Yerevan",
+      "capitalFR": "Erevan",
+      "flag": "flags/armenia_flag-svg.svg"
+    },
+    {
+      "name": "Australia",
+      "nameFR": "Australie",
+      "capital": "Canberra",
+      "capitalFR": "Canberra",
+      "flag": "flags/australia_flag-svg.svg"
+    },
+    {
+      "name": "Austria",
+      "nameFR": "Autriche",
+      "capital": "Vienna",
+      "capitalFR": "Vienne",
+      "flag": "flags/austria_flag-svg.svg"
+    },
+    {
+      "name": "Azerbaijan",
+      "nameFR": "Azerba�djan",
+      "capital": "Baku",
+      "capitalFR": "Bakou",
+      "flag": "flags/azerbaijan_flag-svg.svg"
+    },
+    {
+      "name": "The Bahamas",
+      "nameFR": "Bahamas",
+      "capital": "Nassau",
+      "capitalFR": "Nassau",
+      "flag": "flags/bahamas_flag-svg.svg"
+    },
+    {
+      "name": "Bahrain",
+      "nameFR": "Bahre�n",
+      "capital": "Manama",
+      "capitalFR": "Manama",
+      "flag": "flags/bahrain_flag-svg.svg"
+    },
+    {
+      "name": "Bangladesh",
+      "nameFR": "Bangladesh",
+      "capital": "Dhaka",
+      "capitalFR": "Dacca",
+      "flag": "flags/bangladesh_flag-svg.svg"
+    },
+    {
+      "name": "Barbados",
+      "nameFR": "Barbade",
+      "capital": "Bridgetown",
+      "capitalFR": "Bridgetown",
+      "flag": "flags/barbados_flag-svg.svg"
+    },
+    {
+      "name": "Belarus",
+      "nameFR": "Bi�lorussie",
+      "capital": "Minsk",
+      "capitalFR": "Minsk",
+      "flag": "flags/belarus_flag-svg.svg"
+    },
+    {
+      "name": "Belgium",
+      "nameFR": "Belgique",
+      "capital": "Brussels",
+      "capitalFR": "Bruxelles",
+      "flag": "flags/belgium_flag-svg.svg"
+    },
+    {
+      "name": "Belize",
+      "nameFR": "Belize",
+      "capital": "Belmopan",
+      "capitalFR": "Belmopan",
+      "flag": "flags/belize_flag-svg.svg"
+    },
+    {
+      "name": "Benin",
+      "nameFR": "B�nin",
+      "capital": "Porto-Novo",
+      "capitalFR": "Porto-Novo",
+      "flag": "flags/benin_flag-svg.svg"
+    },
+    {
+      "name": "Bhutan",
+      "nameFR": "Bhoutan",
+      "capital": "Thimphu",
+      "capitalFR": "Thimphu",
+      "flag": "flags/bhutan_flag-svg.svg"
+    },
+    {
+      "name": "Bolivia",
+      "nameFR": "Bolivie",
+      "capital": "La Paz",
+      "capitalFR": "La Paz",
+      "flag": "flags/bolivia_flag-svg.svg"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "nameFR": "Bosnie-Herz�govine",
+      "capital": "Sarajevo",
+      "capitalFR": "Sarajevo",
+      "flag": "flags/bosnia-and-herzegovina_flag-svg.svg"
+    },
+    {
+      "name": "Botswana",
+      "nameFR": "Botswana",
+      "capital": "Gaborone",
+      "capitalFR": "Gaborone",
+      "flag": "flags/botswana_flag-svg.svg"
+    },
+    {
+      "name": "Brazil",
+      "nameFR": "Br�sil",
+      "capital": "Brasilia",
+      "capitalFR": "Brasilia",
+      "flag": "flags/brazil_flag-svg.svg"
+    },
+    {
+      "name": "Brunei",
+      "nameFR": "Brunei",
+      "capital": "Bandar Seri Begawan",
+      "capitalFR": "Bandar Seri Begawan",
+      "flag": "flags/brunei_flag-svg.svg"
+    },
+    {
+      "name": "Bulgaria",
+      "nameFR": "Bulgarie",
+      "capital": "Sofia",
+      "capitalFR": "Sofia",
+      "flag": "flags/bulgaria_flag-svg.svg"
+    },
+    {
+      "name": "Burkina Faso",
+      "nameFR": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "capitalFR": "Ouagadougou",
+      "flag": "flags/burkina-faso_flag-svg.svg"
+    },
+    {
+      "name": "Burundi",
+      "nameFR": "Burundi",
+      "capital": "Gitega",
+      "capitalFR": "Gitega",
+      "flag": "flags/burundi_flag-svg.svg"
+    },
+    {
+      "name": "Cabo Verde",
+      "nameFR": "Cap-Vert",
+      "capital": "Praia",
+      "capitalFR": "Praia",
+      "flag": "flags/cape-verde_flag-svg.svg"
+    },
+    {
+      "name": "Cambodia",
+      "nameFR": "Cambodge",
+      "capital": "Phnom Penh",
+      "capitalFR": "Phnom Penh",
+      "flag": "flags/cambodia_flag-svg.svg"
+    },
+    {
+      "name": "Cameroon",
+      "nameFR": "Cameroun",
+      "capital": "Yaounde",
+      "capitalFR": "Yaound�",
+      "flag": "flags/cameroon_flag-svg.svg"
+    },
+    {
+      "name": "Canada",
+      "nameFR": "Canada",
+      "capital": "Ottawa",
+      "capitalFR": "Ottawa",
+      "flag": "flags/canada_flag-svg.svg"
+    },
+    {
+      "name": "Central African Republic (CAR)",
+      "nameFR": "R�publique Centrafricaine",
+      "capital": "Bangui",
+      "capitalFR": "Bangui",
+      "flag": "flags/central-african-republic_flag-svg.svg"
+    },
+    {
+      "name": "Chad",
+      "nameFR": "Tchad",
+      "capital": "N'Djamena",
+      "capitalFR": "N'Djam�na",
+      "flag": "flags/chad_flag-svg.svg"
+    },
+    {
+      "name": "Chile",
+      "nameFR": "Chili",
+      "capital": "Santiago",
+      "capitalFR": "Santiago",
+      "flag": "flags/chile_flag-svg.svg"
+    },
+    {
+      "name": "China",
+      "nameFR": "Chine",
+      "capital": "Beijing",
+      "capitalFR": "P�kin",
+      "flag": "flags/china_flag-svg.svg"
+    },
+    {
+      "name": "Colombia",
+      "nameFR": "Colombie",
+      "capital": "Bogota",
+      "capitalFR": "Bogota",
+      "flag": "flags/colombia_flag-svg.svg"
+    },
+    {
+      "name": "Comoros",
+      "nameFR": "Comores",
+      "capital": "Moroni",
+      "capitalFR": "Moroni",
+      "flag": "flags/comoros_flag-svg.svg"
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "nameFR": "R�publique d�mocratique du Congo",
+      "capital": "Kinshasa",
+      "capitalFR": "Kinshasa",
+      "flag": "flags/congo-democratic-republic-of-the_flag-svg.svg"
+    },
+    {
+      "name": "Republic of the Congo",
+      "nameFR": "R�publique du Congo",
+      "capital": "Brazzaville",
+      "capitalFR": "Brazzaville",
+      "flag": "flags/congo-republic-of-the_flag-svg.svg"
+    },
+    {
+      "name": "Costa Rica",
+      "nameFR": "Costa Rica",
+      "capital": "San Jos�",
+      "capitalFR": "San Jos�",
+      "flag": "flags/costa-rica_flag-svg.svg"
+    },
+    {
+      "name": "C�te d'Ivoire (the Ivory Coast)",
+      "nameFR": "C�te d�Ivoire",
+      "capital": "Yamoussoukro",
+      "capitalFR": "Yamoussoukro",
+      "flag": "flags/cote-d-ivoire_flag-svg.svg"
+    },
+    {
+      "name": "Croatia",
+      "nameFR": "Croatie",
+      "capital": "Zagreb",
+      "capitalFR": "Zagreb",
+      "flag": "flags/croatia_flag-svg.svg"
+    },
+    {
+      "name": "Cuba",
+      "nameFR": "Cuba",
+      "capital": "Havana",
+      "capitalFR": "La Havane",
+      "flag": "flags/cuba_flag-svg.svg"
+    },
+    {
+      "name": "Cyprus",
+      "nameFR": "Chypre",
+      "capital": "Nicosia",
+      "capitalFR": "Nicosie",
+      "flag": "flags/cyprus_flag-svg.svg"
+    },
+    {
+      "name": "Czech Republic",
+      "nameFR": "R�publique Tch�que",
+      "capital": "Prague",
+      "capitalFR": "Prague",
+      "flag": "flags/czech-republic_flag-svg.svg"
+    },
+    {
+      "name": "Denmark",
+      "nameFR": "Danemark",
+      "capital": "Copenhagen",
+      "capitalFR": "Cophenhague",
+      "flag": "flags/denmark_flag-svg.svg"
+    },
+    {
+      "name": "Djibouti",
+      "nameFR": "Djibouti",
+      "capital": "Djibouti",
+      "capitalFR": "Djibouti",
+      "flag": "flags/djibouti_flag-svg.svg"
+    },
+    {
+      "name": "Dominica",
+      "nameFR": "Dominique",
+      "capital": "Roseau",
+      "capitalFR": "Roseau",
+      "flag": "flags/dominica_flag-svg.svg"
+    },
+    {
+      "name": "Dominican Republic",
+      "nameFR": "R�publique Dominicaine",
+      "capital": "Santo Domingo",
+      "capitalFR": "Saint Domingue",
+      "flag": "flags/dominican-republic_flag-svg.svg"
+    },
+    {
+      "name": "Ecuador",
+      "nameFR": "�quateur",
+      "capital": "Quito",
+      "capitalFR": "Quito",
+      "flag": "flags/ecuador_flag-svg.svg"
+    },
+    {
+      "name": "Egypt",
+      "nameFR": "�gypte",
+      "capital": "Cairo",
+      "capitalFR": "Le Caire",
+      "flag": "flags/egypt_flag-svg.svg"
+    },
+    {
+      "name": "El Salvador",
+      "nameFR": "Salvador",
+      "capital": "San Salvador",
+      "capitalFR": "San Salvador",
+      "flag": "flags/el-salvador_flag-svg.svg"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "nameFR": "Guin�e �quatoriale",
+      "capital": "Malabo",
+      "capitalFR": "Malabo",
+      "flag": "flags/equatorial-guinea_flag-svg.svg"
+    },
+    {
+      "name": "Eritrea",
+      "nameFR": "�rythr�e",
+      "capital": "Asmara",
+      "capitalFR": "Asmara",
+      "flag": "flags/eritrea_flag-svg.svg"
+    },
+    {
+      "name": "Estonia",
+      "nameFR": "Estonie",
+      "capital": "Tallinn",
+      "capitalFR": "Tallinn",
+      "flag": "flags/estonia_flag-svg.svg"
+    },
+    {
+      "name": "Eswatini",
+      "nameFR": "Eswatini",
+      "capital": "Mbabane",
+      "capitalFR": "Mbabane",
+      "flag": "flags/swaziland_flag-svg.svg"
+    },
+    {
+      "name": "Ethiopia",
+      "nameFR": "�thiopie",
+      "capital": "Addis Ababa",
+      "capitalFR": "Addis Abeba",
+      "flag": "flags/ethiopia_flag-svg.svg"
+    },
+    {
+      "name": "Fiji",
+      "nameFR": "Fidji",
+      "capital": "Suva",
+      "capitalFR": "Suva",
+      "flag": "flags/fiji_flag-svg.svg"
+    },
+    {
+      "name": "Finland",
+      "nameFR": "Finlande",
+      "capital": "Helsinki",
+      "capitalFR": "Helsinki",
+      "flag": "flags/finland_flag-svg.svg"
+    },
+    {
+      "name": "France",
+      "nameFR": "France",
+      "capital": "Paris",
+      "capitalFR": "Paris",
+      "flag": "flags/france_flag-svg.svg"
+    },
+    {
+      "name": "Gabon",
+      "nameFR": "Gabon",
+      "capital": "Libreville",
+      "capitalFR": "Libreville",
+      "flag": "flags/gabon_flag-svg.svg"
+    },
+    {
+      "name": "Gambia",
+      "nameFR": "Gambie",
+      "capital": "Banjul",
+      "capitalFR": "Banjul",
+      "flag": "flags/gambia_flag-svg.svg"
+    },
+    {
+      "name": "Georgia",
+      "nameFR": "G�orgie",
+      "capital": "Tbilisi",
+      "capitalFR": "Tbilissi",
+      "flag": "flags/georgia_flag-svg.svg"
+    },
+    {
+      "name": "Germany",
+      "nameFR": "Allemagne",
+      "capital": "Berlin",
+      "capitalFR": "Berlin",
+      "flag": "flags/germany_flag-svg.svg"
+    },
+    {
+      "name": "Ghana",
+      "nameFR": "Ghana",
+      "capital": "Accra",
+      "capitalFR": "Accra",
+      "flag": "flags/ghana_flag-svg.svg"
+    },
+    {
+      "name": "Greece",
+      "nameFR": "Gr�ce",
+      "capital": "Athens",
+      "capitalFR": "Ath�nes",
+      "flag": "flags/greece_flag-svg.svg"
+    },
+    {
+      "name": "Grenada",
+      "nameFR": "Grenade",
+      "capital": "Saint George's",
+      "capitalFR": "Saint Georges",
+      "flag": "flags/grenada_flag-svg.svg"
+    },
+    {
+      "name": "Guatemala",
+      "nameFR": "Guatemala",
+      "capital": "Guatemala City",
+      "capitalFR": "Guatemala",
+      "flag": "flags/guatemala_flag-svg.svg"
+    },
+    {
+      "name": "Guinea",
+      "nameFR": "Guin�e",
+      "capital": "Conakry",
+      "capitalFR": "Conakry",
+      "flag": "flags/guinea_flag-svg.svg"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "nameFR": "Guin�e-Bissao",
+      "capital": "Bissau",
+      "capitalFR": "Bissao",
+      "flag": "flags/guinea-bissau_flag-svg.svg"
+    },
+    {
+      "name": "Guyana",
+      "nameFR": "Guyana",
+      "capital": "Georgetown",
+      "capitalFR": "Georgetown",
+      "flag": "flags/guyana_flag-svg.svg"
+    },
+    {
+      "name": "Haiti",
+      "nameFR": "Ha�ti",
+      "capital": "Port au Prince",
+      "capitalFR": "Port au Prince",
+      "flag": "flags/haiti_flag-svg.svg"
+    },
+    {
+      "name": "Honduras",
+      "nameFR": "Honduras",
+      "capital": "Tegucigalpa",
+      "capitalFR": "Tegucigalpa",
+      "flag": "flags/honduras_flag-svg.svg"
+    },
+    {
+      "name": "Hong Kong",
+      "nameFR": "Hong Kong",
+      "capital": "Hong Kong",
+      "capitalFR": "Hong Kong",
+      "flag": "flags/hongkong_flag-svg.svg"
+    },
+    {
+      "name": "Hungary",
+      "nameFR": "Hongrie",
+      "capital": "Budapest",
+      "capitalFR": "Budapest",
+      "flag": "flags/hungary_flag-svg.svg"
+    },
+    {
+      "name": "Iceland",
+      "nameFR": "Islande",
+      "capital": "Reykjav�k",
+      "capitalFR": "Reykjav�k",
+      "flag": "flags/iceland_flag-svg.svg"
+    },
+    {
+      "name": "India",
+      "nameFR": "Inde",
+      "capital": "New Delhi",
+      "capitalFR": "New Delhi",
+      "flag": "flags/india_flag-svg.svg"
+    },
+    {
+      "name": "Indonesia",
+      "nameFR": "Indon�sie",
+      "capital": "Jakarta",
+      "capitalFR": "Jakarta",
+      "flag": "flags/indonesia_flag-svg.svg"
+    },
+    {
+      "name": "Iran",
+      "nameFR": "Iran",
+      "capital": "Tehran",
+      "capitalFR": "T�h�ran",
+      "flag": "flags/iran_flag-svg.svg"
+    },
+    {
+      "name": "Iraq",
+      "nameFR": "Irak",
+      "capital": "Baghdad",
+      "capitalFR": "Baghdad",
+      "flag": "flags/iraq_flag-svg.svg"
+    },
+    {
+      "name": "Ireland",
+      "nameFR": "Irlande",
+      "capital": "Dublin",
+      "capitalFR": "Dublin",
+      "flag": "flags/ireland_flag-svg.svg"
+    },
+    {
+      "name": "Israel",
+      "nameFR": "Isra�l",
+      "capital": "Jerusalem",
+      "capitalFR": "J�rusalem",
+      "flag": "flags/israel_flag-svg.svg"
+    },
+    {
+      "name": "Italy",
+      "nameFR": "Italie",
+      "capital": "Rome",
+      "capitalFR": "Rome",
+      "flag": "flags/italy_flag-svg.svg"
+    },
+    {
+      "name": "Jamaica",
+      "nameFR": "Jama�que",
+      "capital": "Kingston",
+      "capitalFR": "Kingston",
+      "flag": "flags/jamaica_flag-svg.svg"
+    },
+    {
+      "name": "Japan",
+      "nameFR": "Japon",
+      "capital": "Tokyo",
+      "capitalFR": "Tokyo",
+      "flag": "flags/japan_flag-svg.svg"
+    },
+    {
+      "name": "Jordan",
+      "nameFR": "Jordanie",
+      "capital": "Amman",
+      "capitalFR": "Amman",
+      "flag": "flags/jordan_flag-svg.svg"
+    },
+    {
+      "name": "Kazakhstan",
+      "nameFR": "Kazakhstan",
+      "capital": "Nur-Sultan",
+      "capitalFR": "Noursoultan",
+      "flag": "flags/kazakhstan_flag-svg.svg"
+    },
+    {
+      "name": "Kenya",
+      "nameFR": "Kenya",
+      "capital": "Nairobi",
+      "capitalFR": "Nairobi",
+      "flag": "flags/kenya_flag-svg.svg"
+    },
+    {
+      "name": "Kiribati",
+      "nameFR": "Kiribati",
+      "capital": "Tarawa",
+      "capitalFR": "Tarawa",
+      "flag": "flags/kiribati_flag-svg.svg"
+    },
+    {
+      "name": "Kuwait",
+      "nameFR": "Kowe�t",
+      "capital": "Kuwait City",
+      "capitalFR": "Kowe�t",
+      "flag": "flags/kuwait_flag-svg.svg"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "nameFR": "Kirghizistan",
+      "capital": "Bishkek",
+      "capitalFR": "Bichkek",
+      "flag": "flags/kyrgyzstan_flag-svg.svg"
+    },
+    {
+      "name": "Laos",
+      "nameFR": "Laos",
+      "capital": "Vientiane",
+      "capitalFR": "Vientiane",
+      "flag": "flags/laos_flag-svg.svg"
+    },
+    {
+      "name": "Latvia",
+      "nameFR": "Lettonie",
+      "capital": "Riga",
+      "capitalFR": "Riga",
+      "flag": "flags/latvia_flag-svg.svg"
+    },
+    {
+      "name": "Lebanon",
+      "nameFR": "Liban",
+      "capital": "Beirut",
+      "capitalFR": "Beyrouth",
+      "flag": "flags/lebanon_flag-svg.svg"
+    },
+    {
+      "name": "Lesotho",
+      "nameFR": "Lesotho",
+      "capital": "Maseru",
+      "capitalFR": "Maseru",
+      "flag": "flags/lesotho_flag-svg.svg"
+    },
+    {
+      "name": "Liberia",
+      "nameFR": "Liberia",
+      "capital": "Monrovia",
+      "capitalFR": "Monrovia",
+      "flag": "flags/liberia_flag-svg.svg"
+    },
+    {
+      "name": "Libya",
+      "nameFR": "Libye",
+      "capital": "Tripoli",
+      "capitalFR": "Tripoli",
+      "flag": "flags/libya_flag-svg.svg"
+    },
+    {
+      "name": "Liechtenstein",
+      "nameFR": "Liechtenstein",
+      "capital": "Vaduz",
+      "capitalFR": "Vaduz",
+      "flag": "flags/liechtenstein_flag-svg.svg"
+    },
+    {
+      "name": "Lithuania",
+      "nameFR": "Lituanie",
+      "capital": "Vilnius",
+      "capitalFR": "Vilnius",
+      "flag": "flags/lithuania_flag-svg.svg"
+    },
+    {
+      "name": "Luxembourg",
+      "nameFR": "Luxembourg",
+      "capital": "Luxembourg",
+      "capitalFR": "Luxembourg",
+      "flag": "flags/luxembourg_flag-svg.svg"
+    },
+    {
+      "name": "Madagascar",
+      "nameFR": "Madagascar",
+      "capital": "Antananarivo",
+      "capitalFR": "Tananarive",
+      "flag": "flags/madagascar_flag-svg.svg"
+    },
+    {
+      "name": "Malawi",
+      "nameFR": "Malawi",
+      "capital": "Lilongwe",
+      "capitalFR": "Lilongwe",
+      "flag": "flags/malawi_flag-svg.svg"
+    },
+    {
+      "name": "Malaysia",
+      "nameFR": "Malaisie",
+      "capital": "Kuala Lumpur",
+      "capitalFR": "Kuala Lumpur",
+      "flag": "flags/malaysia_flag-svg.svg"
+    },
+    {
+      "name": "Maldives",
+      "nameFR": "Maldives",
+      "capital": "Mal�",
+      "capitalFR": "Mal�",
+      "flag": "flags/maldives_flag-svg.svg"
+    },
+    {
+      "name": "Mali",
+      "nameFR": "Mali",
+      "capital": "Bamako",
+      "capitalFR": "Bamako",
+      "flag": "flags/mali_flag-svg.svg"
+    },
+    {
+      "name": "Malta",
+      "nameFR": "Malte",
+      "capital": "Valletta",
+      "capitalFR": "La Valette",
+      "flag": "flags/malta_flag-svg.svg"
+    },
+    {
+      "name": "Marshall Islands",
+      "nameFR": "�les Marshall",
+      "capital": "Majuro",
+      "capitalFR": "Majuro",
+      "flag": "flags/marshall-islands_flag-svg.svg"
+    },
+    {
+      "name": "Mauritania",
+      "nameFR": "Mauritanie",
+      "capital": "Nouakchott",
+      "capitalFR": "Nouakchott",
+      "flag": "flags/mauritania_flag-svg.svg"
+    },
+    {
+      "name": "Mauritius",
+      "nameFR": "Maurice",
+      "capital": "Port Louis",
+      "capitalFR": "Port Louis",
+      "flag": "flags/mauritius_flag-svg.svg"
+    },
+    {
+      "name": "Mexico",
+      "nameFR": "Mexique",
+      "capital": "Mexico City",
+      "capitalFR": "Mexico",
+      "flag": "flags/mexico_flag-svg.svg"
+    },
+    {
+      "name": "Micronesia",
+      "nameFR": "Micron�sie",
+      "capital": "Palikir",
+      "capitalFR": "Palikir",
+      "flag": "flags/micronesia_flag-svg.svg"
+    },
+    {
+      "name": "Moldova",
+      "nameFR": "Moldavie",
+      "capital": "Chi?in?u",
+      "capitalFR": "Chisinau",
+      "flag": "flags/moldova_flag-svg.svg"
+    },
+    {
+      "name": "Monaco",
+      "nameFR": "Monaco",
+      "capital": "Monaco",
+      "capitalFR": "Monaco",
+      "flag": "flags/monaco_flag-svg.svg"
+    },
+    {
+      "name": "Mongolia",
+      "nameFR": "Mongolie",
+      "capital": "Ulaanbaatar",
+      "capitalFR": "Oulan Bator",
+      "flag": "flags/mongolia_flag-svg.svg"
+    },
+    {
+      "name": "Montenegro",
+      "nameFR": "Mont�n�gro",
+      "capital": "Podgorica",
+      "capitalFR": "Podgorica",
+      "flag": "flags/montenegro_flag-svg.svg"
+    },
+    {
+      "name": "Morocco",
+      "nameFR": "Maroc",
+      "capital": "Rabat",
+      "capitalFR": "Rabat",
+      "flag": "flags/morocco_flag-svg.svg"
+    },
+    {
+      "name": "Mozambique",
+      "nameFR": "Mozambique",
+      "capital": "Maputo",
+      "capitalFR": "Maputo",
+      "flag": "flags/mozambique_flag-svg.svg"
+    },
+    {
+      "name": "Myanmar",
+      "nameFR": "Birmanie",
+      "capital": "Naypyitaw",
+      "capitalFR": "Naypyidaw",
+      "flag": "flags/myanmar_flag-svg.svg"
+    },
+    {
+      "name": "Namibia",
+      "nameFR": "Namibie",
+      "capital": "Windhoek",
+      "capitalFR": "Windhoek",
+      "flag": "flags/namibia_flag-svg.svg"
+    },
+    {
+      "name": "Nauru",
+      "nameFR": "Nauru",
+      "capital": "Yaren District",
+      "capitalFR": "Yaren",
+      "flag": "flags/nauru_flag-svg.svg"
+    },
+    {
+      "name": "Nepal",
+      "nameFR": "N�pal",
+      "capital": "Kathmandu",
+      "capitalFR": "Katmandou",
+      "flag": "flags/nepal_flag-svg.svg"
+    },
+    {
+      "name": "The Netherlands",
+      "nameFR": "Pays-Bas",
+      "capital": "Amsterdam",
+      "capitalFR": "Amsterdam",
+      "flag": "flags/netherlands_flag-svg.svg"
+    },
+    {
+      "name": "New Zealand",
+      "nameFR": "Nouvelle Z�lande",
+      "capital": "Wellington",
+      "capitalFR": "Wellington",
+      "flag": "flags/new-zealand_flag-svg.svg"
+    },
+    {
+      "name": "Nicaragua",
+      "nameFR": "Nicaragua",
+      "capital": "Managua",
+      "capitalFR": "Managua",
+      "flag": "flags/nicaragua_flag-svg.svg"
+    },
+    {
+      "name": "Niger",
+      "nameFR": "Niger",
+      "capital": "Niamey",
+      "capitalFR": "Niamey",
+      "flag": "flags/niger_flag-svg.svg"
+    },
+    {
+      "name": "Nigeria",
+      "nameFR": "Nigeria",
+      "capital": "Abuja",
+      "capitalFR": "Abuja",
+      "flag": "flags/nigeria_flag-svg.svg"
+    },
+    {
+      "name": "North Korea",
+      "nameFR": "Cor�e du Nord",
+      "capital": "Pyongyang",
+      "capitalFR": "Pyongyang",
+      "flag": "flags/north-korea_flag-svg.svg"
+    },
+    {
+      "name": "North Macedonia",
+      "nameFR": "Mac�doine du Nord",
+      "capital": "Skopje",
+      "capitalFR": "Skopje",
+      "flag": "flags/macedonia_flag-svg.svg"
+    },
+    {
+      "name": "Norway",
+      "nameFR": "Norv�ge",
+      "capital": "Oslo",
+      "capitalFR": "Oslo",
+      "flag": "flags/norway_flag-svg.svg"
+    },
+    {
+      "name": "Oman",
+      "nameFR": "Oman",
+      "capital": "Muscat",
+      "capitalFR": "Mascate",
+      "flag": "flags/oman_flag-svg.svg"
+    },
+    {
+      "name": "Pakistan",
+      "nameFR": "Pakistan",
+      "capital": "Islamabad",
+      "capitalFR": "Islamabad",
+      "flag": "flags/pakistan_flag-svg.svg"
+    },
+    {
+      "name": "Palau",
+      "nameFR": "Palaos",
+      "capital": "Ngerulmud",
+      "capitalFR": "Ngerulmud",
+      "flag": "flags/palau_flag-svg.svg"
+    },
+    {
+      "name": "Palestine",
+      "nameFR": "Palestine",
+      "capital": "Ramallah",
+      "capitalFR": "Ramallah",
+      "flag": "flags/palestine_flag-svg.svg"
+    },
+    {
+      "name": "Panama",
+      "nameFR": "Panam�",
+      "capital": "Panama City",
+      "capitalFR": "Panama",
+      "flag": "flags/panama_flag-svg.svg"
+    },
+    {
+      "name": "Papua New Guinea",
+      "nameFR": "Papouasie Nouvelle Guin�e",
+      "capital": "Port Moresby",
+      "capitalFR": "Port Moresby",
+      "flag": "flags/papua-new-guinea_flag-svg.svg"
+    },
+    {
+      "name": "Paraguay",
+      "nameFR": "Paraguay",
+      "capital": "Asunci�n",
+      "capitalFR": "Asuncion",
+      "flag": "flags/paraguay_flag-svg.svg"
+    },
+    {
+      "name": "Peru",
+      "nameFR": "P�rou",
+      "capital": "Lima",
+      "capitalFR": "Lima",
+      "flag": "flags/peru_flag-svg.svg"
+    },
+    {
+      "name": "Philippines",
+      "nameFR": "Philippines",
+      "capital": "Manila",
+      "capitalFR": "Manille",
+      "flag": "flags/philippines_flag-svg.svg"
+    },
+    {
+      "name": "Poland",
+      "nameFR": "Pologne",
+      "capital": "Warsaw",
+      "capitalFR": "Varsovie",
+      "flag": "flags/poland_flag-svg.svg"
+    },
+    {
+      "name": "Portugal",
+      "nameFR": "Portugal",
+      "capital": "Lisbon",
+      "capitalFR": "Lsbonne",
+      "flag": "flags/portugal_flag-svg.svg"
+    },
+    {
+      "name": "Qatar",
+      "nameFR": "Qatar",
+      "capital": "Doha",
+      "capitalFR": "Doha",
+      "flag": "flags/qatar_flag-svg.svg"
+    },
+    {
+      "name": "Romania",
+      "nameFR": "Roumanie",
+      "capital": "Bucharest",
+      "capitalFR": "Bucarest",
+      "flag": "flags/romania_flag-svg.svg"
+    },
+    {
+      "name": "Russia",
+      "nameFR": "Russie",
+      "capital": "Moscow",
+      "capitalFR": "Moscou",
+      "flag": "flags/russia_flag-svg.svg"
+    },
+    {
+      "name": "Rwanda",
+      "nameFR": "Rwanda",
+      "capital": "Kigali",
+      "capitalFR": "Kigali",
+      "flag": "flags/rwanda_flag-svg.svg"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "nameFR": "Saint Christophe et Ni�v�s",
+      "capital": "Basseterre",
+      "capitalFR": "Basseterre",
+      "flag": "flags/saint-kitts-and-nevis_flag-svg.svg"
+    },
+    {
+      "name": "Saint Lucia",
+      "nameFR": "Sainte Lucie",
+      "capital": "Castries",
+      "capitalFR": "Castries",
+      "flag": "flags/saint-lucia_flag-svg.svg"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "nameFR": "Saint Vincent et les Grenadines",
+      "capital": "Kingstown",
+      "capitalFR": "Kingstown",
+      "flag": "flags/saint-vincent-and-the-grenadines_flag-svg.svg"
+    },
+    {
+      "name": "Samoa",
+      "nameFR": "Samoa",
+      "capital": "Apia",
+      "capitalFR": "Apia",
+      "flag": "flags/samoa_flag-svg.svg"
+    },
+    {
+      "name": "San Marino",
+      "nameFR": "Saint-Marin",
+      "capital": "San Marino",
+      "capitalFR": "Saint Marin",
+      "flag": "flags/san-marino_flag-svg.svg"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "nameFR": "S�o Tom� et Principe",
+      "capital": "S�o Tom�",
+      "capitalFR": "S�o Tom�",
+      "flag": "flags/sao-tome-and-principe_flag-svg.svg"
+    },
+    {
+      "name": "Saudi Arabia",
+      "nameFR": "Arabie Saoudite",
+      "capital": "Riyadh",
+      "capitalFR": "Riyad",
+      "flag": "flags/saudi-arabia_flag-svg.svg"
+    },
+    {
+      "name": "Senegal",
+      "nameFR": "S�n�gal",
+      "capital": "Dakar",
+      "capitalFR": "Dakar",
+      "flag": "flags/senegal_flag-svg.svg"
+    },
+    {
+      "name": "Serbia",
+      "nameFR": "Serbie",
+      "capital": "Belgrade",
+      "capitalFR": "Belgrade",
+      "flag": "flags/serbia_flag-svg.svg"
+    },
+    {
+      "name": "Seychelles",
+      "nameFR": "Seychelles",
+      "capital": "Victoria",
+      "capitalFR": "Victoria",
+      "flag": "flags/seychelles_flag-svg.svg"
+    },
+    {
+      "name": "Sierra Leone",
+      "nameFR": "Sierra Leone",
+      "capital": "Freetown",
+      "capitalFR": "Freetown",
+      "flag": "flags/sierra-leone_flag-svg.svg"
+    },
+    {
+      "name": "Singapore",
+      "nameFR": "Singapour",
+      "capital": "Singapore",
+      "capitalFR": "Singapour",
+      "flag": "flags/singapore_flag-svg.svg"
+    },
+    {
+      "name": "Slovakia",
+      "nameFR": "Slovaquie",
+      "capital": "Bratislava",
+      "capitalFR": "Bratislava",
+      "flag": "flags/slovakia_flag-svg.svg"
+    },
+    {
+      "name": "Slovenia",
+      "nameFR": "Slov�nie",
+      "capital": "Ljubljana",
+      "capitalFR": "Ljubljana",
+      "flag": "flags/slovenia_flag-svg.svg"
+    },
+    {
+      "name": "Solomon Islands",
+      "nameFR": "�les Salomon",
+      "capital": "Honiara",
+      "capitalFR": "Honiara",
+      "flag": "flags/solomon-islands_flag-svg.svg"
+    },
+    {
+      "name": "Somalia",
+      "nameFR": "Somalie",
+      "capital": "Mogadishu",
+      "capitalFR": "Mogadiscio",
+      "flag": "flags/somalia_flag-svg.svg"
+    },
+    {
+      "name": "South Africa",
+      "nameFR": "Afrique du Sud",
+      "capital": "Pretoria",
+      "capitalFR": "Pretoria",
+      "flag": "flags/south-africa_flag-svg.svg"
+    },
+    {
+      "name": "South Korea",
+      "nameFR": "Cor�e du Sud",
+      "capital": "Seoul",
+      "capitalFR": "S�oul",
+      "flag": "flags/south-korea_flag-svg.svg"
+    },
+    {
+      "name": "South Sudan",
+      "nameFR": "Soudan du Sud",
+      "capital": "Juba",
+      "capitalFR": "Djouba",
+      "flag": "flags/south-sudan_flag-svg.svg"
+    },
+    {
+      "name": "Spain",
+      "nameFR": "Espagne",
+      "capital": "Madrid",
+      "capitalFR": "Madrid",
+      "flag": "flags/spain_flag-svg.svg"
+    },
+    {
+      "name": "Sri Lanka",
+      "nameFR": "Sri Lanka",
+      "capital": "Colombo",
+      "capitalFR": "Colombo",
+      "flag": "flags/sri-lanka_flag-svg.svg"
+    },
+    {
+      "name": "Sudan",
+      "nameFR": "Soudan",
+      "capital": "Khartoum",
+      "capitalFR": "Khartoum",
+      "flag": "flags/sudan_flag-svg.svg"
+    },
+    {
+      "name": "Suriname",
+      "nameFR": "Suriname",
+      "capital": "Paramaribo",
+      "capitalFR": "Paramaribo",
+      "flag": "flags/suriname_flag-svg.svg"
+    },
+    {
+      "name": "Sweden",
+      "nameFR": "Su�de",
+      "capital": "Stockholm",
+      "capitalFR": "Stockholm",
+      "flag": "flags/sweden_flag-svg.svg"
+    },
+    {
+      "name": "Switzerland",
+      "nameFR": "Suisse",
+      "capital": "Bern",
+      "capitalFR": "Berne",
+      "flag": "flags/switzerland_flag-svg.svg"
+    },
+    {
+      "name": "Syria",
+      "nameFR": "Syrie",
+      "capital": "Damascus",
+      "capitalFR": "Damas",
+      "flag": "flags/syria_flag-svg.svg"
+    },
+    {
+      "name": "Taiwan",
+      "nameFR": "Ta�wan",
+      "capital": "Taipei",
+      "capitalFR": "Taipei",
+      "flag": "flags/taiwan_flag-svg.svg"
+    },
+    {
+      "name": "Tajikistan",
+      "nameFR": "Tadjikistan",
+      "capital": "Dushanbe",
+      "capitalFR": "Douchanb�",
+      "flag": "flags/tajikistan_flag-svg.svg"
+    },
+    {
+      "name": "Tanzania",
+      "nameFR": "Tanzanie",
+      "capital": "Dodoma",
+      "capitalFR": "Dodoma",
+      "flag": "flags/tanzania_flag-svg.svg"
+    },
+    {
+      "name": "Thailand",
+      "nameFR": "Tha�lande",
+      "capital": "Bangkok",
+      "capitalFR": "Bangkok",
+      "flag": "flags/thailand_flag-svg.svg"
+    },
+    {
+      "name": "Timor",
+      "nameFR": "Timor",
+      "capital": "Dili",
+      "capitalFR": "Dili",
+      "flag": "flags/east-timor_flag-svg.svg"
+    },
+    {
+      "name": "Togo",
+      "nameFR": "Togo",
+      "capital": "Lom�",
+      "capitalFR": "Lom�",
+      "flag": "flags/togo_flag-svg.svg"
+    },
+    {
+      "name": "Tonga",
+      "nameFR": "Tonga",
+      "capital": "Nuku'alofa",
+      "capitalFR": "Nuku'alofa",
+      "flag": "flags/tonga_flag-svg.svg"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "nameFR": "Trinit� et Tobago",
+      "capital": "Port of Spain",
+      "capitalFR": "Port d'Espagne",
+      "flag": "flags/trinidad-and-tobago_flag-svg.svg"
+    },
+    {
+      "name": "Tunisia",
+      "nameFR": "Tunisie",
+      "capital": "Tunis",
+      "capitalFR": "Tunis",
+      "flag": "flags/tunisia_flag-svg.svg"
+    },
+    {
+      "name": "Turkey",
+      "nameFR": "Turquie",
+      "capital": "Ankara",
+      "capitalFR": "Ankara",
+      "flag": "flags/turkey_flag-svg.svg"
+    },
+    {
+      "name": "Turkmenistan",
+      "nameFR": "Turkm�nistan",
+      "capital": "Ashgabat",
+      "capitalFR": "Achkhabad",
+      "flag": "flags/turkmenistan_flag-svg.svg"
+    },
+    {
+      "name": "Tuvalu",
+      "nameFR": "Tuvalu",
+      "capital": "Funafuti",
+      "capitalFR": "Funafuti",
+      "flag": "flags/tuvalu_flag-svg.svg"
+    },
+    {
+      "name": "Uganda",
+      "nameFR": "Ouganda",
+      "capital": "Kampala",
+      "capitalFR": "Kampala",
+      "flag": "flags/uganda_flag-svg.svg"
+    },
+    {
+      "name": "Ukraine",
+      "nameFR": "Ukraine",
+      "capital": "Kyiv",
+      "capitalFR": "Kiev",
+      "flag": "flags/ukraine_flag-svg.svg"
+    },
+    {
+      "name": "The United Arab Emirates (UAE)",
+      "nameFR": "�mirats Arabes Unis",
+      "capital": "Abu Dhabi",
+      "capitalFR": "Abou Dabi",
+      "flag": "flags/united-arab-emirates_flag-svg.svg"
+    },
+    {
+      "name": "The United Kingdom (UK)",
+      "nameFR": "Royaume-Uni",
+      "capital": "London",
+      "capitalFR": "Londres",
+      "flag": "flags/united-kingdom_flag-svg.svg"
+    },
+    {
+      "name": "The United States (USA)",
+      "nameFR": "�tats-Unis",
+      "capital": "Washington, D.C.",
+      "capitalFR": "Washington",
+      "flag": "flags/united-states-of-america_flag-svg.svg"
+    },
+    {
+      "name": "Uruguay",
+      "nameFR": "Uruguay",
+      "capital": "Montevideo",
+      "capitalFR": "Montevideo",
+      "flag": "flags/uruguay_flag-svg.svg"
+    },
+    {
+      "name": "Uzbekistan",
+      "nameFR": "Ouzb�kistan",
+      "capital": "Tashkent",
+      "capitalFR": "Tashkent",
+      "flag": "flags/uzbekistan_flag-svg.svg"
+    },
+    {
+      "name": "Vanuatu",
+      "nameFR": "Vanuatu",
+      "capital": "Port Vila",
+      "capitalFR": "Port Vila",
+      "flag": "flags/vanuatu_flag-svg.svg"
+    },
+    {
+      "name": "Vatican City",
+      "nameFR": "Vatican",
+      "capital": "Vatican City",
+      "capitalFR": "Cit� du Vatican",
+      "flag": "flags/vatican-city_flag-svg.svg"
+    },
+    {
+      "name": "Venezuela",
+      "nameFR": "Venezuela",
+      "capital": "Caracas",
+      "capitalFR": "Caracas",
+      "flag": "flags/venezuela_flag-svg.svg"
+    },
+    {
+      "name": "Vietnam",
+      "nameFR": "Vi�t Nam",
+      "capital": "Hanoi",
+      "capitalFR": "Hano�",
+      "flag": "flags/vietnam_flag-svg.svg"
+    },
+    {
+      "name": "Yemen",
+      "nameFR": "Y�men",
+      "capital": "Sana'a",
+      "capitalFR": "Sanaa",
+      "flag": "flags/yemen_flag-svg.svg"
+    },
+    {
+      "name": "Zambia",
+      "nameFR": "Zambie",
+      "capital": "Lusaka",
+      "capitalFR": "Lusaka",
+      "flag": "flags/zambia_flag-svg.svg"
+    },
+    {
+      "name": "Zimbabwe",
+      "nameFR": "Zimbabwe",
+      "capital": "Harare",
+      "capitalFR": "Harare",
+      "flag": "flags/zimbabwe_flag-svg.svg"
+    }
+  ]
+    
