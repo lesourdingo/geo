@@ -1,57 +1,90 @@
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: antiquewhite;
-  background: #202020;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    background: #202020;
 }
 
 h1 {
-  text-align: center;
-  font-size: 4em;
-  padding: 1em;
+    text-align: center;
+    font-size: 4em;
+    padding: 1em;
 }
 
 .container {
-  display: flex;
-  padding: 1em;
-  margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
 }
 
-#countries {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    margin-bottom: 1em;
 }
 
-#Card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  box-shadow: 0px 0px 10px 0px rgba(131, 128, 128, 0.51);
-  padding: 1em;
-  margin: 1em;
-  width: 180px;
+#search {
+    font-size: 1.1em;
+    padding: 0.7em;
+    width: 200px;
 }
 
-#flag {
-  width: 100%;
-  margin-bottom: 1em;
+.search-btn {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.fa-search {
+    padding: 0.2em;
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1em;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0px 0px 10px 0px rgba(131, 128, 128, 0.51);
+    padding: 1em;
+    margin: 1em;
+    width: 180px;
+}
+
+.flag {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.name {
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+
+.capital {
+    font-style: italic;
 }
 
 .fa-globe-africa {
-  margin-right: 1em;
+    margin-right: 0.5em;
 }
 
-#name {
-  margin-bottom: 1em;
-  font-weight: bold ;
-}
-
-.fa-city{
-  margin-right: 1em;
+.fa-city {
+    margin-right: 0.5em;
 }
