@@ -91,4 +91,15 @@ input {
     #main {
         padding: 0.5em;
     }
+
+    .card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        box-shadow: 0px 0px 10px 0px rgba(131, 128, 128, 0.51);
+        padding: 1em;
+        margin: 0.6em;
+        width: 160px;
+        font-size: 0.9em;
+    }
 }
