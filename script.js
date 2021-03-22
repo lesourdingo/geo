@@ -1,6 +1,6 @@
 const main = document.getElementById("main");
-const submit = document.getElementById("submit");
 const search = document.getElementById("search");
+const card = main.getElementsByClassName("card");
 
 // Mount country
 fetch("./country.json")
@@ -8,12 +8,12 @@ fetch("./country.json")
     .then((data) => {
         main.innerHTML = data
             .map(
-                (country) => `
+                (el) => `
     <div class="card">
-        <div class="flag"><img src="${country.flag}" alt="${country.name}"></div>
+        <div class="flag"><img src="${el.flag}" alt="${el.name}"></div>
         <div class="card-info">
-            <div class="name"><i class="fas fa-globe-africa"></i>${country.nameFR}</div>
-            <div class="capital"><i class="fas fa-city"></i>${country.capitalFR}</div>
+            <div class="country"><i class="fas fa-globe-africa"></i>${el.nameFR}</div>
+            <div class="capital"><i class="fas fa-city"></i>${el.capitalFR}</div>
         </div>
     </div>
     `
@@ -22,17 +22,17 @@ fetch("./country.json")
     });
 
 // Search
-// function searchCountry(e) {
-//     e.preventDefault();
+function filter() {
+    let filter = search.value.toUpperCase();
 
-// Get search term
-//     const term = search.value;
-
-//     if (term.trim()) {
-
-//     } else {
-//         alert("Entrer un pays");
-//     }
-// }
-
-// submit.addEventListener("submit", searchCountry);
+    for (let i = 0; i < card.length; i++) {
+        let name = card[i].getElementsByClassName("country")[0];
+        let txtValue = name.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            card[i].style.display = "";
+        } else {
+            card[i].style.display = "none";
+        }
+        console.log(name);
+    }
+}

@@ -19,14 +19,9 @@ h1 {
 .container {
     display: flex;
     flex-direction: column;
-    margin: auto;
-}
-
-.search {
-    display: flex;
     justify-content: center;
-    align-items: stretch;
-    margin-bottom: 1em;
+    align-items: center;
+    margin: auto;
 }
 
 #search {
@@ -35,13 +30,16 @@ h1 {
     width: 200px;
 }
 
-.search-btn {
-    display: inline-block;
-    cursor: pointer;
+input {
+    border: 1px solid antiquewhite;
+    background: antiquewhite;
+    border-radius: 5px;
 }
 
 .fa-search {
     padding: 0.2em;
+    color: #202020;
+    background: antiquewhite;
 }
 
 #main {
@@ -72,7 +70,7 @@ h1 {
     align-items: flex-start;
 }
 
-.name {
+.country {
     margin-bottom: 1em;
     font-weight: bold;
 }
